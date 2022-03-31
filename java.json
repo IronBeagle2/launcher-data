@@ -6,5 +6,9 @@
   {
     "verName": "a1.0.6_01",
     "verLink": "https://files.betacraft.uk/launcher/assets/versions/a1.0.16_01.jar"
+  },
+  {
+    "verName": "b1.7.3",
+    "verLink": "https://launcher.mojang.com/v1/objects/43db9b498cb67058d2e12d394e6507722e71bb45/client.jar"
   }
 ]
