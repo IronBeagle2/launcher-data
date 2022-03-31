@@ -1,0 +1,2 @@
+a1.0.6 https://files.betacraft.uk/launcher/assets/versions/a1.0.6.jar
+a1.0.6_01 https://files.betacraft.uk/launcher/assets/versions/a1.0.16_01.jar
