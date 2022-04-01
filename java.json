@@ -395,6 +395,66 @@
     "verNote": ""
   },
   {
+    "verName": "b1.9-pre1",
+    "verLink": "https://assets.minecraft.net/1_9-pre/minecraft.jar",
+    "verNote": ""
+  },
+  {
+    "verName": "b1.9-pre2",
+    "verLink": "https://assets.minecraft.net/1_9-pre2/minecraft.jar",
+    "verNote": ""
+  },
+  {
+    "verName": "b1.9-pre3-1350",
+    "verLink": "https://files.betacraft.uk/launcher/assets/versions/b1.9-pre3-1.jar",
+    "verNote": ""
+  },
+  {
+    "verName": "b1.9-pre3-1402",
+    "verLink": "https://assets.minecraft.net/1_9-pre3/minecraft.jar",
+    "verNote": ""
+  },
+  {
+    "verName": "b1.9-pre4-1415",
+    "verLink": "https://files.betacraft.uk/launcher/assets/versions/b1.9-pre4-1415.jar",
+    "verNote": ""
+  },
+  {
+    "verName": "b1.9-pre4-1434",
+    "verLink": "https://assets.minecraft.net/1_9-pre4/minecraft.jar",
+    "verNote": ""
+  },
+  {
+    "verName": "b1.9-pre5",
+    "verLink": "https://assets.minecraft.net/1_9-pre5/minecraft.jar",
+    "verNote": ""
+  },
+  {
+    "verName": "b1.9-pre6",
+    "verLink": "https://assets.minecraft.net/1_9-pre6/minecraft.jar",
+    "verNote": ""
+  },
+  {
+    "verName": "1.0-rc1",
+    "verLink": "https://files.betacraft.uk/launcher/assets/versions/1.0.0-rc1.jar",
+    "verNote": ""
+  },
+  {
+    "verName": "1.0.0-rc2-1633",
+    "verLink": "https://files.betacraft.uk/launcher/assets/versions/1.0.0-rc2-1.jar",
+    "verNote": ""
+  },
+  {
+    "verName": "1.0.0-rc2-1649",
+    "verLink": "https://files.betacraft.uk/launcher/assets/versions/1.0.0-rc2-2.jar",
+    "verNote": ""
+  },
+  {
+    "verName": "1.0.0-rc2-1656",
+    "verLink": "https://assets.minecraft.net/rc2/minecraft.jar",
+    "verNote": ""
+  },
+  {
     "verName": "1.2.5",
     "verLink": "https://launcher.mojang.com/v1/objects/4a2fac7504182a97dcbcd7560c6392d7c8139928/client.jar",
     "verNote": ""
