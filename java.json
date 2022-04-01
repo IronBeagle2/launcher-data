@@ -12,6 +12,82 @@
     "verLink": "https://files.betacraft.uk/launcher/assets/versions/a1.0.6_03.jar"
   },
   {
+    "verName": "a1.0.7",
+    "verLink": "https://files.betacraft.uk/launcher/assets/versions/a1.0.7.jar"
+  },
+  {
+    "verName": "a1.0.8_01",
+    "verLink": "https://files.betacraft.uk/launcher/assets/versions/a1.0.8_01.jar"
+  },
+  {
+    "verName": "a1.0.9",
+    "verLink": "https://files.betacraft.uk/launcher/assets/versions/a1.0.9.jar"
+  },
+  {
+    "verName": "a1.0.10",
+    "verLink": "https://files.betacraft.uk/launcher/assets/versions/a1.0.10.jar"
+  },
+  {
+    "verName": "a1.0.11",
+    "verLink": "https://launcher.mojang.com/v1/objects/d7ceb02909d0e1031a99ff4d8053d3f4abfbb2da/client.jar"
+  },
+  {
+    "verName": "a1.0.12",
+    "verLink": "https://files.betacraft.uk/launcher/assets/versions/a1.0.12.jar"
+  },
+  {
+    "verName": "a1.0.13",
+    "verLink": "https://files.betacraft.uk/launcher/assets/versions/a1.0.13.jar"
+  },
+  {
+    "verName": "a1.0.13_01-1038",
+    "verLink": "https://files.betacraft.uk/launcher/assets/versions/a1.0.13_01-1.jar"
+  },
+  {
+    "verName": "a1.0.13_01-1444",
+    "verLink": "https://files.betacraft.uk/launcher/assets/versions/a1.0.13_01-2.jar"
+  },
+  {
+    "verName": "a1.0.14-1603",
+    "verLink": "https://files.betacraft.uk/launcher/assets/versions/a1.0.14-1.jar"
+  },
+  {
+    "verName": "a1.0.14-1659",
+    "verLink": "https://files.betacraft.uk/launcher/assets/versions/a1.0.14-2.jar"
+  },
+  {
+    "verName": "a1.0.14-1659-launcher",
+    "verLink": "https://launcher.mojang.com/v1/objects/9b4b90d8def2a680b7c9eca40dd03e2266c8977a/client.jar"
+  },
+  {
+    "verName": "a1.0.15",
+    "verLink": "https://launcher.mojang.com/v1/objects/03edaff812bedd4157a90877e779d7b7ecf78e97/client.jar"
+  },
+  {
+    "verName": "a1.0.16",
+    "verLink": "https://launcher.mojang.com/v1/objects/98ce80c7630ccb3bb38687ff98bfd18935d49a57/client.jar"
+  },
+  {
+    "verName": "a1.0.16_01",
+    "verLink": "https://files.betacraft.uk/launcher/assets/versions/a1.0.16_01.jar"
+  },
+  {
+    "verName": "a1.0.16_02",
+    "verLink": "https://files.betacraft.uk/launcher/assets/versions/a1.0.16_02.jar"
+  },
+  {
+    "verName": "a1.0.17_02",
+    "verLink": "https://launcher.mojang.com/v1/objects/39f20ee472a40322e034643a8d1668836f5052bd/client.jar"
+  },
+  {
+    "verName": "a1.0.17_03",
+    "verLink": "https://files.betacraft.uk/launcher/assets/versions/a1.0.17_03.jar"
+  },
+  {
+    "verName": "a1.0.17_04",
+    "verLink": "https://launcher.mojang.com/v1/objects/61cb4c717981f34bf90e8502d2eb8cf2aa6db0cd/client.jar"
+  },
+  {
     "verName": "a1.2.0_01",
     "verLink": "https://launcher.mojang.com/v1/objects/332bfe7bf26f6a5cc93ee85e6759ce33784409d0/client.jar"
   },
