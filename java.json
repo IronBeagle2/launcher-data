@@ -248,6 +248,10 @@
     "verLink": "https://launcher.mojang.com/v1/objects/e2a692e5e8160c84b29c834ecbf398618db9749c/client.jar"
   },
   {
+    "verName": "b1.6-tb3",
+    "verLink": "https://files.betacraft.uk/launcher/assets/versions/b1.6-test_build_3.jar"
+  },
+  {
     "verName": "b1.6",
     "verLink": "https://launcher.mojang.com/v1/objects/ecc0288d218fd7479027a17c150cbf283fa950a1/client.jar"
   },
@@ -290,6 +294,18 @@
   {
     "verName": "b1.7.3",
     "verLink": "https://launcher.mojang.com/v1/objects/43db9b498cb67058d2e12d394e6507722e71bb45/client.jar"
+  },
+  {
+    "verName": "b1.8-pre1-081459",
+    "verLink": "https://files.betacraft.uk/launcher/assets/versions/b1.8-pre-1.jar"
+  },
+  {
+    "verName": "b1.8-pre1-091357",
+    "verLink": "https://assets.minecraft.net/1_8-pre/minecraft.jar"
+  },
+  {
+    "verName": "b1.8-pre2",
+    "verLink": "https://assets.minecraft.net/1_8-pre2/minecraft.jar"
   },
   {
     "verName": "b1.8",
