@@ -8,11 +8,19 @@
     "verLink": "https://files.betacraft.uk/launcher/assets/versions/a1.0.16_01.jar"
   },
   {
+    "verName": "a1.0.6_03",
+    "verLink": "https://files.betacraft.uk/launcher/assets/versions/a1.0.6_03.jar"
+  },
+  {
     "verName": "a1.2.0_01",
     "verLink": "https://launcher.mojang.com/v1/objects/332bfe7bf26f6a5cc93ee85e6759ce33784409d0/client.jar"
   },
   {
     "verName": "b1.7.3",
     "verLink": "https://launcher.mojang.com/v1/objects/43db9b498cb67058d2e12d394e6507722e71bb45/client.jar"
+  },
+  {
+    "verName": "1.2.5",
+    "verLink": "https://launcher.mojang.com/v1/objects/4a2fac7504182a97dcbcd7560c6392d7c8139928/client.jar"
   }
 ]
