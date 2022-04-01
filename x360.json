@@ -1,38 +1,137 @@
 [
   {
     "verName": "pre-tu-0033",
-    "verLink": "https://archive.org/download/minecraft-reloaded-1.66.0033.0/Minecraft%20Reloaded.rar/Minecraft%20Reloaded%2F00000001%2F00080000%2F0000000100000000"
+    "verLink": "https://archive.org/download/minecraft-reloaded-1.66.0033.0/Minecraft%20Reloaded.rar/Minecraft%20Reloaded%2F00000001%2F00080000%2F0000000100000000",
+    "verNote": ""
   },
   {
     "verName": "pre-tu-0035",
-    "verLink": "https://archive.org/download/minecraft-xbox-360-1.66.0035.0/Minecraft%20Xbox%20360.rar/Minecraft%20Xbox%20360%2F584111F7%2F000D0000%2F0C1EE22285E488F38C844F286C06EA1DED24D25B58"
+    "verLink": "https://archive.org/download/minecraft-xbox-360-1.66.0035.0/Minecraft%20Xbox%20360.rar/Minecraft%20Xbox%20360%2F584111F7%2F000D0000%2F0C1EE22285E488F38C844F286C06EA1DED24D25B58",
+    "verNote": ""
   },
   {
     "verName": "pre-tu-0054",
-    "verLink": "https://archive.org/download/minecraft-xbox-360-0.66.0054.0/minecraft%20xdk%200.66.0054.0.zip/minecraft%20xdk%200.66.0054.0%2F584111F7%2F000D0000%2F584111F701234567"
+    "verLink": "https://archive.org/download/minecraft-xbox-360-0.66.0054.0/minecraft%20xdk%200.66.0054.0.zip/minecraft%20xdk%200.66.0054.0%2F584111F7%2F000D0000%2F584111F701234567",
+    "verNote": ""
   },
   {
     "verName": "tu0",
-    "verLink": "https://archive.org/download/minecraft-xbox-360-edition-base-game/49AAD81B9FCDA45E4A03D71BFCB353F8FADB236C58.rar/49AAD81B9FCDA45E4A03D71BFCB353F8FADB236C58"
+    "verLink": "https://archive.org/download/minecraft-xbox-360-edition-base-game/49AAD81B9FCDA45E4A03D71BFCB353F8FADB236C58.rar/49AAD81B9FCDA45E4A03D71BFCB353F8FADB236C58",
+    "verNote": ""
   },
   {
     "verName": "tu1",
-    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU1/Cache/TU_1C424FN_0000004000000.0000000000081"
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU1/Cache/TU_1C424FN_0000004000000.0000000000081",
+    "verNote": ""
+  },
+  {
+    "verName": "tu2",
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU2/Cache/TU_1C424FN_0000004000000.00000000000G1",
+    "verNote": ""
+  },
+  {
+    "verName": "tu3",
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU3/Cache/TU_1C424FN_0000004000000.00000000000O1",
+    "verNote": ""
+  },
+  {
+    "verName": "tu4",
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU4/Cache/TU_1C424FN_0000004000000.0000000000101",
+    "verNote": ""
   },
   {
     "verName": "tu5",
-    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU5/Cache/TU_1C424FN_0000004000000.0000000000181"
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU5/Cache/TU_1C424FN_0000004000000.0000000000181",
+    "verNote": ""
+  },
+  {
+    "verName": "tu6",
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU6/Cache/TU_1C424FN_0000004000000.00000000001G1",
+    "verNote": ""
+  },
+  {
+    "verName": "tu7",
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU7/584111F7/000B0000/tu00000001_00000000",
+    "verNote": ""
+  },
+  {
+    "verName": "tu8",
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU8/584111F7/000B0000/tu00000001_00000000",
+    "verNote": ""
+  },
+  {
+    "verName": "tu9",
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU9/584111F7/000B0000/tu00000001_00000000",
+    "verNote": ""
+  },
+  {
+    "verName": "tu10",
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU10/584111F7/000B0000/tu00000001_00000000",
+    "verNote": ""
+  },
+  {
+    "verName": "tu11",
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU11/584111F7/000B0000/tu00000001_00000000",
+    "verNote": ""
+  },
+  {
+    "verName": "tu12",
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU12/584111F7/000B0000/tu00000001_00000000",
+    "verNote": ""
+  },
+  {
+    "verName": "tu13",
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU13/584111F7/000B0000/tu00000001_00000000",
+    "verNote": ""
+  },
+  {
+    "verName": "tu14",
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU14/584111F7/000B0000/tu00000001_00000000",
+    "verNote": ""
+  },
+  {
+    "verName": "tu15",
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU15/584111F7/000B0000/tu00000001_00000000",
+    "verNote": ""
+  },
+  {
+    "verName": "tu16",
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU16/584111F7/000B0000/tu00000001_00000000",
+    "verNote": ""
+  },
+  {
+    "verName": "tu17",
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU17/584111F7/000B0000/tu00000001_00000000",
+    "verNote": ""
+  },
+  {
+    "verName": "tu18",
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU18/584111F7/000B0000/tu00000001_00000000",
+    "verNote": ""
+  },
+  {
+    "verName": "tu19",
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU19/584111F7/000B0000/tu00000001_00000000",
+    "verNote": ""
   },
   {
     "verName": "tu20",
-    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU20/584111F7/000B0000/tu00000001_00000000"
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU20/584111F7/000B0000/tu00000001_00000000",
+    "verNote": ""
   },
   {
     "verName": "tu30",
-    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU30/tu00000001_00000000"
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU30/tu00000001_00000000",
+    "verNote": ""
+  },
+  {
+    "verName": "tu42",
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/TU42/584111F7/000B0000/tu00000001_00000000",
+    "verNote": ""
   },
   {
     "verName": "tu50",
-    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU50/tu00000001_00000000"
+    "verLink": "https://archive.org/download/Minecraft-Xbox360-TUs/Minecraft%20Xbox%20360%20Edition%20TUs/TU50/tu00000001_00000000",
+    "verNote": ""
   }
 ]
