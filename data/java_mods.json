@@ -1,0 +1,16 @@
+[
+  {
+    "modName": "ap-0.0.9a",
+    "modLink": "https://archive.org/download/ap-versions-client/ap-0.0.9a.zip",
+    "modNote": "Alpha Mod 0.0.9a",
+    "baseVer": "b1.7.3",
+    "modType": "jarPatch"
+  },
+  {
+    "modName": "ap-0.0.10a",
+    "modLink": "https://archive.org/download/ap-versions-client/ap-0.0.10a.zip",
+    "modNote": "Alpha Mod 0.0.10a",
+    "baseVer": "b1.7.3",
+    "modType": "jarPatch"
+  }
+]
