@@ -2,33 +2,37 @@
   {
     "modID": "ap-0.0.9a",
     "modLink": "https://archive.org/download/ap-versions-client/ap-0.0.9a.zip",
-    "modNote": "Alpha Mod 0.0.9a",
     "baseVer": "https://launcher.mojang.com/v1/objects/43db9b498cb67058d2e12d394e6507722e71bb45/client.jar",
     "modType": "jarMod",
+    "modName": "Alpha Mod",
+    "modVer" : "0.0.9a",
     "modAuthor": "MrLordSith"
   },
   {
     "modID": "ap-0.0.10a",
     "modLink": "https://archive.org/download/ap-versions-client/ap-0.0.10a.zip",
-    "modNote": "Alpha Mod 0.0.10a",
     "baseVer": "https://launcher.mojang.com/v1/objects/43db9b498cb67058d2e12d394e6507722e71bb45/client.jar",
     "modType": "jarMod",
+    "modName": "Alpha Mod",
+    "modVer" : "0.0.10a",
     "modAuthor": "MrLordSith"
   },
   {
     "modID": "pemod-0.6.3",
     "modLink": "http://genericpnpserver.ddns.net/minecraft_stuff/pemod/PEMod063.zip",
-    "modNote": "Pocket Edition Mod 0.6.3",
     "baseVer": "https://launcher.mojang.com/v1/objects/43db9b498cb67058d2e12d394e6507722e71bb45/client.jar",
     "modType": "jarMod",
+    "modName": "PE Mod",
+    "modVer" : "0.6.3",
     "modAuthor": "GenericPnPMonitor"
   },
   {
     "modID": "aether-64bit-v0.3",
     "modLink": "https://cdn.discordapp.com/attachments/369990015096455168/962088758830829619/aether_client_v0_3.zip",
-    "modNote": "Aether 64bit v0.3",
     "baseVer": "https://launcher.mojang.com/v1/objects/f71a5b58c9bd0e458878d78a34c9fb35e97d5222/client.jar",
     "modType": "jarMod",
+    "modName": "Aether 64bit",
+    "modVer" : "v0.3",
     "modAuthor": "314rft"
   }
 ]
