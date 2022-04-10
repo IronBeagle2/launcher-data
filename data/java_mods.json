@@ -19,12 +19,5 @@
     "modNote": "Aether 64bit v0.3",
     "baseVer": "https://launcher.mojang.com/v1/objects/f71a5b58c9bd0e458878d78a34c9fb35e97d5222/client.jar",
     "modType": "jarMod"
-  },
-  {
-    "modName": "nsss-a1.1.11_100",
-    "modLink": "http://files.betacraft.uk/launcher/assets/mods/NSSS-a1.1.11_100.jar",
-    "modNote": "Not So Seecret Saturday a1.1.11_100",
-    "baseVer": "https://launcher.mojang.com/v1/objects/daa4b9f192d2c260837d3b98c39432324da28e86/client.jar",
-    "modType": "jarMod"
   }
 ]
