@@ -3,14 +3,14 @@
     "modName": "ap-0.0.9a",
     "modLink": "https://archive.org/download/ap-versions-client/ap-0.0.9a.zip",
     "modNote": "Alpha Mod 0.0.9a",
-    "baseVer": "b1.7.3",
-    "modType": "jarPatch"
+    "baseVer": "https://launcher.mojang.com/v1/objects/43db9b498cb67058d2e12d394e6507722e71bb45/client.jar",
+    "modType": "jarMod"
   },
   {
     "modName": "ap-0.0.10a",
     "modLink": "https://archive.org/download/ap-versions-client/ap-0.0.10a.zip",
     "modNote": "Alpha Mod 0.0.10a",
-    "baseVer": "b1.7.3",
-    "modType": "jarPatch"
+    "baseVer": "https://launcher.mojang.com/v1/objects/43db9b498cb67058d2e12d394e6507722e71bb45/client.jar",
+    "modType": "jarMod"
   }
 ]
