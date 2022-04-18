@@ -34,5 +34,15 @@
     "modName": "Aether 64bit",
     "modVer" : "v0.3",
     "modAuthor": "314rft"
+  },
+  {
+    "modID": "adventure+-1.3.0.snap-20211205",
+    "modLink": "https://github.com/ggggaaaannnngggg/AdventurePlus/releases/download/v1.03.00.00-5A01.37/AD.1.3.0.snap-20211205.zip",
+    "baseVer": "https://launcher.mojang.com/v1/objects/4a2fac7504182a97dcbcd7560c6392d7c8139928/client.jar",
+    "modType": "forgeMod",
+    "modForgeVer" : "https://maven.minecraftforge.net/net/minecraftforge/forge/1.2.5-3.4.9.171/forge-1.2.5-3.4.9.171-client.zip",
+    "modName": "Adventure+",
+    "modVer" : "1.3.0.snap-20211205",
+    "modAuthor": "ggggaaaannnngggg"
   }
 ]
